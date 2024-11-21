@@ -22,7 +22,7 @@
   min-height: 100vh;
   color: black;
   text-align: center;
-  background: url('C:\Users\Eric\OneDrive\Desktop\Portfolio-Website-Eric-Pineda\Portfolio-Website-Eric-Pineda\eric-pineda-portfolio\public\Site_Background.jpg') no-repeat center center fixed;
+  background: url('..\\public\\Site_Background.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
