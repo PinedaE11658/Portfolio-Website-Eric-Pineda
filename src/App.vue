@@ -2,7 +2,7 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/Portfolio">Portfolio</router-link>
-  
+    <router-link to="/Site_Background.jpg"</router-link>
   </nav>
   <router-view/>
 </template>
@@ -22,7 +22,7 @@
   min-height: 100vh;
   color: black;
   text-align: center;
-  background: url('C:\Users\Eric\OneDrive\Desktop\Portfolio-Website-Eric-Pineda\eric-pineda-portfolio\public\Site_Background.jpg') no-repeat center center fixed;
+  background: url('C:\Users\Eric\OneDrive\Desktop\Portfolio-Website-Eric-Pineda\Portfolio-Website-Eric-Pineda\eric-pineda-portfolio\public\Site_Background.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
