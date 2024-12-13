@@ -45,10 +45,10 @@ export default {
 <style scoped>
 .portfolio-box {
   background-color: #daeaf6;
-  padding: 2rem;
+  padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 25px 9px rgba(0, 0, 0, 0.1);
-  max-width: 800px;
+  max-width: 600px;
   width: 100%;
 }
 .portfolio-box ul {
