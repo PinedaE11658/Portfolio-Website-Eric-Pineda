@@ -1,19 +1,3 @@
 # eric-pineda-portfolio
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## This project is a responsive Vue.js application about me.  The page is created as a personal webpage for a Dynamic Web Applications class. 
