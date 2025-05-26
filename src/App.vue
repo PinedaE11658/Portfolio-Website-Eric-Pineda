@@ -3,6 +3,7 @@
   <nav>
     <router-link to="/">Home</router-link>
     <router-link to="/Portfolio">Portfolio</router-link>
+    <router-link to="/Runescape">Runescape</router-link>
     <router-link to="/Contactme">Contact Me</router-link>
   </nav>
   <router-view/>

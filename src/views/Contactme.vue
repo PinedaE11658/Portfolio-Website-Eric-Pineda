@@ -51,8 +51,8 @@
   
   .contact-box {
     background-color: #E8DFF5;
-    padding: 20px;
-    border-radius: 10px;
+    padding: 100px;
+    border-radius: 20px;
     max-width: 500px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     text-align: center;
